@@ -5,5 +5,5 @@ Model is trained using Convolutional Neural Network, as well as machine learning
 
 This website, uses the already trained models, to classify CXR images.
 #### Random forest, XGboost, K-Nearest Neighbor models are uploaded here. But the CNN model is not uploaded here, due to it's big size.
-#### This repo not contains, the code that is used to train the models.
+#### This repo not contains, the code that is used to train the models. It only contains the code of the Django website.
 
