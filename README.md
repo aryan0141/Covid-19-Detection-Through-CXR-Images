@@ -1,9 +1,10 @@
 # Covid-19-Detection-Through-CXR-Images
-A website made through python Django framework, to detect the Coronavirus in Chest X-Ray images.
-## Part of Summer Challenge Competition
-Model is trained using Convolutional Neural Network, as well as machine learning classifiers.
 
-This website, uses the already trained models, to classify CXR images.
-#### Random forest, XGboost, K-Nearest Neighbor models are uploaded here. But the CNN model is not uploaded here, due to it's big size.
-#### This repo does not contain the code that is used to train the models. It only contains the code of the Django website.
+### Part of Summer Challenge Competition 2020 conducted in IIT Jodhpur
+It predicts the probability of person being infected from Covid-19 or Pneumonia by analyzing the Chest Xray images of the patient.
+Several Image features were made using Convolutional Neural Network and are trained on Machine Learning Classifiers.
+
+For complete information of the project refer to **Covid-19 CXR Detection Report** which is uploaded here.
+
+#### This repo only contains the code of the Django website, not the code that is used to train the model.
 
